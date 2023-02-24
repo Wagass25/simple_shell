@@ -1,6 +1,6 @@
 /*
  * File: environ.c
- * Auth: Henry Agalik and Fred Ogudu
+ * Auth: Fred Ogudu and Henry Agalik
  */
 
 #include "shell.h"
